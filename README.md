@@ -1,1 +1,1 @@
-### 2.8 inch ili9341_2_Driver TFT DISPLAY WITH ESP-32
+### This code is to implement gif into 2.8 inch tft display
